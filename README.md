@@ -1,6 +1,6 @@
 # PROJECTO REDES SOCKETS
 
-### DATA ENTREGA: 18 Outubro 6a Feira ate as 23h59
+## DATA ENTREGA: 18 Outubro 6a Feira ate as 23h59
 
 Ver Enunciado para detalhes
 
