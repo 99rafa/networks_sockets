@@ -4,16 +4,16 @@
 
 Ver Enunciado para detalhes
 
-### About
+## About
 
 Project developed in c.
 
-### Prerequisites
+## Prerequisites
 
 ``gcc`` required
 
 
-### How to run
+## How to run
 
 Go to the "MainProgram/" directory and run:
 
