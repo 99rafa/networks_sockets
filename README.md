@@ -1,19 +1,19 @@
 # PROJECTO REDES SOCKETS
 
-## DATA ENTREGA: 18 Outubro 6a Feira ate as 23h59
+### DATA ENTREGA: 18 Outubro 6a Feira ate as 23h59
 
 Ver Enunciado para detalhes
 
-## About
+### About
 
 Project developed in c.
 
-## Prerequisites
+### Prerequisites
 
 ``gcc`` required
 
 
-## How to run
+### How to run
 
 Go to the "MainProgram/" directory and run:
 
